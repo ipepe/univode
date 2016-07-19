@@ -5,6 +5,7 @@ gem 'rake', '= 0.9.6'
 gem 'rack', '= 1.5.2'
 
 group :development, :test do
+  gem 'filewatcher'
   gem 'sqlite3'
   gem 'minitest'
   gem 'thor'
