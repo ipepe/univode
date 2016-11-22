@@ -7,6 +7,8 @@ Univode is tool for really fast prototyping of web apps.
  * if attribute is fileted, then it has to be index in database
  * if attribute is string instead of text, validate it's length
  * if attribute validate uniqness, then keep database index for uniqness
+ * we use defined attributes for building views (filters and stuff)
+ 
  
 
 # Examples
