@@ -9,7 +9,8 @@ Univode is tool for really fast prototyping of web apps.
  * if attribute validate uniqness, then keep database index for uniqness
  * we use defined attributes for building views (filters and stuff)
  
- 
+# Optional concept ideas
+ * use faker gem to seed database
 
 # Examples
  * online shop
